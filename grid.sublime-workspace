@@ -1,0 +1,826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"checked"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"ad",
+				"addOnNameParts"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"ru",
+				"rulesData"
+			],
+			[
+				"ha",
+				"hasError"
+			],
+			[
+				"is",
+				"isRequiredAddonLevel1"
+			],
+			[
+				"last",
+				"lastWorkingLevel1Symbol"
+			],
+			[
+				"le",
+				"level-2"
+			],
+			[
+				"win",
+				"winType"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"br",
+				"scanBridge"
+			],
+			[
+				"sub",
+				"subRequiresAddon"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"sy",
+				"symbolInfo"
+			],
+			[
+				"con",
+				"contextmenu"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"cont",
+				"contextMenu"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"Add",
+				"address1"
+			],
+			[
+				"pla",
+				"planCode"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"rec",
+				"recurlyFormError"
+			],
+			[
+				"cu",
+				"currency"
+			],
+			[
+				"cou",
+				"couponCode"
+			],
+			[
+				"String",
+				"StringBuilder"
+			],
+			[
+				"pl",
+				"planCode"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"di",
+				"disabled	Attr"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"mar",
+				"marketName"
+			],
+			[
+				"ti",
+				"ticker"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pe",
+				"pending_subscription"
+			],
+			[
+				"pS",
+				"pSubPrice"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"active",
+				"activePlan"
+			],
+			[
+				"sb",
+				"subscription"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"he",
+				"Helper"
+			],
+			[
+				"sc",
+				"scrolling"
+			],
+			[
+				"sca",
+				"scanPaused"
+			],
+			[
+				"borer-c",
+				"border-color"
+			],
+			[
+				"loca",
+				"localSort"
+			],
+			[
+				"al",
+				"alertRuleLength"
+			],
+			[
+				"fi",
+				"filters"
+			],
+			[
+				"vo",
+				"Volume"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"la",
+				"lastPrice"
+			],
+			[
+				"op",
+				"operation"
+			],
+			[
+				"filter",
+				"filter-rules"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"input",
+				"inputFrom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ini",
+				"initFixedRules"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"border-bot",
+				"border-bottom-color"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"resu",
+				"resultsTotal"
+			],
+			[
+				"new",
+				"newSymbol"
+			],
+			[
+				"start",
+				"startDataFetching"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"total",
+				"totalRecordText"
+			],
+			[
+				"ref",
+				"refereshGrid"
+			],
+			[
+				"sor",
+				"sortGrid"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "slickgrid/slick.core.js",
+			"settings":
+			{
+				"buffer_size": 13558,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/app/partials/payment-method-dialog.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/breakouts/breakout-window.js",
+		"/Users/surindersingh/Documents/personal/jot.php",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/breakouts/breakouts.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/js/helper.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/level-2-window.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/chart-montage-window.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/chart-montage-window.html",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/level-2-window.html",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-java/src/ws/chart/ChartResultsProcessor.java",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-java/src/ws/chart/ChartProcessor.java",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-java/src/ws/chart/ChartMessageSender.java",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/home/home.css",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/news-and-filings-window.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/time-and-sales-window.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/site/index.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/site/index2.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/site/pricing.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/site/privacy.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/site/terms.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/home/home.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/lib/charting_library/datafeed/udf/datafeed.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/lib/charting_library/static/bundles/tv-lib.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/js/functions.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/lib/charting_library/static/bundles/library.5f9190dba877443caabd.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/lib/charting_library/charting_library.min.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/js/globals.js",
+		"/Users/surindersingh/Documents/dev/as/brt/bitrouting/bitrouting-fabric/package.json",
+		"/Users/surindersingh/Documents/dev/as/brt/bitrouting/bitrouting-fabric/.git/config",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/site/partials/footer.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/site/partials/header.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/site/partials/head.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/lib/recurly.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/config/scanz.conf",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/lib/users.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/lib/api.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/home/home.html",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/css/style.css",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/scan-window.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/news/news-window.html",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/scan-window.html",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/home/rpc-server.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/js/rpc-client.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/js/SettingDialog.class.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/news/news-window.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/news/news.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/scans.js",
+		"/Users/surindersingh/Desktop/VLC Debug Log (3.0.0 Vetinari).txt",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/layouts/layouts.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/lib/w2ui/1.4.3.master/w2grid.js",
+		"/Users/surindersingh/Documents/dev/as/la/litecoin.com/config/litecoin.com.conf",
+		"/Users/surindersingh/Documents/dev/as/la/litecoin.com/http/manage/manage.html",
+		"/Users/surindersingh/Documents/dev/as/la/litecoin.com/http/manage/core-style.css",
+		"/Users/surindersingh/Documents/dev/as/la/litecoin.com/http/manage/deps/polymer/layout.html",
+		"/Users/surindersingh/Documents/dev/as/la/litecoin.com/http/manage/deps/core-style/core-style.html",
+		"/Users/surindersingh/Documents/dev/as/la/litecoin.com/litecoin.com.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/node_modules/node-recurly/README.md",
+		"/Users/surindersingh/Library/Application Support/OpenTimelog/logs/02.2018-Aspectron.log",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/node_modules/node-recurly/lib/routes/v2.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/node_modules/node-recurly/lib/routes/index.js",
+		"/Users/surindersingh/Documents/dev/as/LSI-SOAR/lsi-nexus/node_modules/iris-polymer/package.json",
+		"/Users/surindersingh/Documents/dev/as/jtm/node_modules/iris-polymer/http/iris/iris-tags-input.html",
+		"/Users/surindersingh/Documents/dev/as/jtm/jtm.sublime-project",
+		"/Users/surindersingh/Library/Application Support/OpenTimelog/logs/01.2018-Aspectron.log",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/logs/catalina.out",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/logs/eqfeed2014.txt.2018-02-09",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/auto_login.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/subscribe/build/recurly.js",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/subscribe/script_billing.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/code_update_subscription.jsp",
+		"/Users/surindersingh/Downloads/recurly-java-library-master/src/test/java/com/ning/billing/recurly/TestRecurlyClient.java",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/resub_congratulations.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/code_login.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/Constance.jsp",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/bin/startup.sh",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/bin/catalina.sh",
+		"/Users/surindersingh/Documents/dev/local/recurlyjs.html",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/register.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/code_create_account_equityfeed.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/code_create_account_recurly.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/script_trial_confirm.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/subscribe/billing_old.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/code_register.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/__account.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/register-confirm.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/script_account.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/register_eod.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/script_resub_congratulation.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/subscribe/web/test/one_time_transaction.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/META-INF/MANIFEST.MF",
+		"/Users/surindersingh/Documents/dev/as/cm/Charanjit singh",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/login.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/subscribe/code_billing.jsp",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/css/flex-boxes.css",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/code_email_validate.jsp",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/http/css/layout.css",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/GRID.rar Folder/gridusers-2.6/src/gridusers/registration/Action.java",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/logs/eqfeed2014.txt",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/code_userID_validate.jsp",
+		"/Users/surindersingh/Downloads/hazelcast-3.8.4/bin/hazelcast.xml",
+		"/Users/surindersingh/Downloads/hazelcast-2.4/bin/server.sh",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/account-g.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/account.jsp",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/code_account_check.jsp",
+		"/Users/surindersingh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/WEB-INF/lib/hazelcast-2.4/hazelcast-default.xml",
+		"/Users/surindersingh/Downloads/hazelcast-3.8.4/demo/cluster.sh",
+		"/Users/surindersingh/Downloads/hazelcast-3.8.4/bin/start.sh",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/GRID.rar Folder/gridusers-2.6/src/gridusers/registration/ActionName.java",
+		"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/.gitignore",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/RUNNING.txt",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/webapps/host-manager/WEB-INF/web.xml",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/conf/tomcat-users.xml",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/conf/server.xml",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/webapps/ROOT/index.jsp",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/webapps/ROOT/WEB-INF/web.xml",
+		"/Users/surindersingh/Downloads/apache-tomcat-9.0.0.M26/conf/Catalina/eq.com/manager.xml",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/time-and-sales-window.html",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/scans/news-and-filings-window.html",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/watchlists/watchlist-window.html",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/breakouts/breakout-window.html",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/app/subscription.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/app/partials/my-subscriptions.ejs",
+		"/Users/surindersingh/.scanz/ticker-symbols.json",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz/scanz_datafeed/symbols_database.js",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/app/subscription-plans.ejs",
+		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/http/css/_custom.css",
+		"/Users/surindersingh/Documents/dev/as/bitcoinedge/views/site/tutorials/tutorial-template.ejs"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/surindersingh/Documents/dev/as/cm/scanz-java",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz-java1/ws_platform_and_bridge_projects.rar Folder/ws-bridge",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz-site",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz-site",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz-site/node_modules/node-recurly",
+			"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website",
+			"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/subscribe",
+			"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz/wsPoolServerDistribution/lib",
+			"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website",
+			"/Users/surindersingh/Documents/dev/as/equityfeed/equityfeed-website/WEB-INF",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/site",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz/views",
+			"/Users/surindersingh/Documents/dev/as/brt/bitrouting/nexus",
+			"/Users/surindersingh/Documents/dev/as/brt/bitrouting/fabric-gateway",
+			"/Users/surindersingh/Documents/dev/as/brt/bitrouting/fabric-endpoint",
+			"/Users/surindersingh/Documents/dev/as/brt/bitrouting/bitrouting-fabric",
+			"/Users/surindersingh/Documents/dev/as/cm/scanz"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"activeLevel2Symbol",
+			"activeLevel1Symbol",
+			"getRunningTicker",
+			"isRequiredAddonLevel2",
+			"activeLevel1Symbol",
+			"_addons",
+			"modalChangeExchanges",
+			"gridMenu",
+			"scanBreakout",
+			"buildRulesData",
+			"CHART_TIME_SALE_RT",
+			"timeSales",
+			"activeLevel2Symbol",
+			"ticker",
+			"runningTicker",
+			"getRunningTicker",
+			"runningTicker",
+			"current_win.",
+			"loadTickerSymbols",
+			"CHART_UI_TICKER",
+			"ws.send",
+			"isRequiredAddonLevel1",
+			"refreshUI",
+			"ws.on",
+			"isRequiredAddonLevel2",
+			"chartHistorical",
+			"updateChart",
+			"bridge",
+			"runningTicker",
+			"scanBridgeAsync",
+			"runningTicker",
+			"scanBridgeAsync",
+			"bridge",
+			"getRunningTicker",
+			"bridge",
+			"scanBridge",
+			"scanBridgeAsync",
+			"bridge",
+			"scanBridge",
+			"sendWSRequest",
+			"onResolveErrorCallback",
+			"showTickerMsg",
+			"sendWSRequest",
+			"showTickerMsg",
+			"updateTicker",
+			"mailto:help@scanz.com",
+			"inputFrom",
+			"valueFrom",
+			"getLast",
+			"onSymbolResolvedCallback",
+			"onSymbolChange",
+			"PD_REASON_SYMBOL",
+			"symbol_error",
+			"symbol_resolved",
+			".resolveSymbol",
+			"datafeed.resolveSymbol",
+			"resolveSymbol",
+			"scanBridgeAsync",
+			"10",
+			"$10",
+			"showMsg",
+			"Contact Us",
+			"contact",
+			"changeSubscriptionPlan",
+			"createSubscription",
+			"createAccount",
+			"isSectionDisallowed",
+			"handleLoginResponse",
+			"sub-plan",
+			"updrage-subscription-mask",
+			"sub-plan",
+			"openScanWindow",
+			"setWinGroup",
+			"openScanWindow",
+			"gridMenu",
+			"ondbl",
+			"checkRunningTicker",
+			"timeframesMap",
+			"chartRT",
+			"chartHistorical",
+			"CHART_HISTORICAL_30",
+			"getBarsObj",
+			"ticker",
+			"startDataFetching",
+			"right-box",
+			"__",
+			"___",
+			"buildCallback",
+			"fontSize",
+			"createCSSTag",
+			"updateCss",
+			"context-menu",
+			"insertColumn",
+			"menu",
+			"context",
+			"document",
+			"contextMenu",
+			"contextmenu",
+			"dragColEnd",
+			"dragColOver",
+			"columnName",
+			"insertColumn",
+			"Remove Column",
+			"gridMenu",
+			"dragColEnd",
+			"columnHead",
+			"LTC",
+			"html /deep/ ",
+			"userSu",
+			"add_on_code",
+			"listByAccount",
+			"add_on_code",
+			"listByAccount",
+			"input-content",
+			"_computeInputContentClass",
+			"createOrUpdateBillingInfo",
+			"recurly-subscribe",
+			"table",
+			"submit-btn",
+			"paymentModelWrapper",
+			"USD",
+			"error",
+			"AddOn",
+			"data",
+			"userID_hash",
+			"sdf",
+			"day",
+			"user_reg_date"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"isInvalidMsgTicker",
+			"",
+			"selectedAddons.append(\",",
+			"</option>\n                                    <option",
+			"	",
+			"},\n{",
+			"initFilterRules",
+			"<div class=\"img\" style=\"background-image:url(",
+			"refreshGrid"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "slickgrid/slick.core.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "grid.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
