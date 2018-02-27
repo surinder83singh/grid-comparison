@@ -343,14 +343,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "slickgrid/slick.core.js",
-			"settings":
-			{
-				"buffer_size": 13558,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -382,8 +374,17 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/surindersingh/Documents/dev/local/grid-comparison/slickgrid",
+		"/Users/surindersingh/Documents/dev/local/grid-comparison/slickgrid/examples"
+	],
 	"file_history":
 	[
+		"/Users/surindersingh/Documents/dev/local/grid-comparison/slickgrid/slick.dataview.js",
+		"/Users/surindersingh/Documents/dev/local/grid-comparison/slickgrid/examples/example-optimizing-dataview-update.html",
+		"/Users/surindersingh/Documents/dev/local/grid-comparison/slickgrid/examples/index.html",
+		"/Users/surindersingh/Documents/dev/local/grid-comparison/slickgrid/slick.core.js",
 		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/app/partials/payment-method-dialog.ejs",
 		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/breakouts/breakout-window.js",
 		"/Users/surindersingh/Documents/personal/jot.php",
@@ -507,15 +508,11 @@
 		"/Users/surindersingh/Documents/dev/as/cm/scanz/views/breakouts/breakout-window.html",
 		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/app/subscription.ejs",
 		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/app/partials/my-subscriptions.ejs",
-		"/Users/surindersingh/.scanz/ticker-symbols.json",
-		"/Users/surindersingh/Documents/dev/as/cm/scanz/scanz_datafeed/symbols_database.js",
-		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/views/app/subscription-plans.ejs",
-		"/Users/surindersingh/Documents/dev/as/cm/scanz-site/http/css/_custom.css",
-		"/Users/surindersingh/Documents/dev/as/bitcoinedge/views/site/tutorials/tutorial-template.ejs"
+		"/Users/surindersingh/.scanz/ticker-symbols.json"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -551,6 +548,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"updateItem",
 			"activeLevel2Symbol",
 			"activeLevel1Symbol",
 			"getRunningTicker",
@@ -677,8 +675,7 @@
 			"data",
 			"userID_hash",
 			"sdf",
-			"day",
-			"user_reg_date"
+			"day"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -705,39 +702,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "slickgrid/slick.core.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13558,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

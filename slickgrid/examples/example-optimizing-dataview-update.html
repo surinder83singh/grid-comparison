@@ -118,11 +118,11 @@
     this.title = "Task " + Math.round(Math.random());
     this.duration = Math.round(Math.random() * 10)+" days";
   }
-
+  var itemsCount = 500000;
 
   $(function () {
     // prepare the data
-    for (var i = 0; i < 500000; i++) {
+    for (var i = 0; i < itemsCount; i++) {
       data[i] = new DataItem(i);
     }
 
@@ -137,6 +137,7 @@
     });
 
     dataView.onRowsChanged.subscribe(function (e, args) {
+      //console.log("args.rows", args.rows)
       grid.invalidateRows(args.rows);
       grid.render();
     });
@@ -178,10 +179,41 @@
     dataView.setFilterArgs(0);
     dataView.endUpdate();
 
+    var updatePaused = false;
+    var updatePausedTimeoutId = false;
+
+    function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
     setInterval(function(){
-      dataView.updateItem("id_1", new DataItem(1))
+      if(updatePaused)
+        return
+      //data[1] = new DataItem(1);
+      //grid.invalidateRows([1]);
+      dataView.beginUpdate();
+      var renderedRange = grid.getRenderedRange();
+      var id = getRandomInt(renderedRange.top, renderedRange.bottom);
+      dataView.updateItem("id_"+id, new DataItem(id))
+      
+      dataView.setRefreshHints({
+        ignoreDiffsBefore: renderedRange.top,
+        ignoreDiffsAfter: renderedRange.bottom + 1
+      });
+      dataView.endUpdate();
+      //grid.render();
+      //dataView.updateItem("id_1", new DataItem(1))
       //dataView.refresh();
-    }, 1000);
+    }, 5);
+
+    $(".slick-viewport").on("scroll", function(){
+      updatePaused = true;
+      if(updatePausedTimeoutId)
+        clearTimeout(updatePausedTimeoutId);
+
+      updatePausedTimeoutId = setTimeout(function(){
+        updatePaused = false;
+      }, 200)
+    });
   })
 </script>
 </body>
